@@ -23,7 +23,7 @@ This project analyzes 2024 Statcast data to evaluate whether 4-seam fastball spi
 
 Spin efficiency was **inferred**, not directly measured.
 
-- Magnus-based **Option A** model (movement + velocity)
+- Magnus-based model (movement + velocity)
 - Air density adjusted per pitch using game temperature (ideal gas law)
 - Within-pitcher comparison
 - Pitch-level mixed-effects regression
