@@ -30,7 +30,7 @@ Spin efficiency was **physically inferred from pitch movement and velocity**, no
 
  ## Results
 Pitcher-Mean Comparison
-- Paired t-test: p = 0.451
+Paired t-test: p = 0.451
 No statistically significant difference
 
 Velocity Relationship
